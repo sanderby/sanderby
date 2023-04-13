@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanderby
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and python
+- 🌱 I’m currently learning html, css, javascript and python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 Reach me at sanderb30@gmail.com
 
